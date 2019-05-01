@@ -4,6 +4,10 @@
 ในทุกๆเวลาตามที่เรากำหนดจะให้แจ้งเตือนแล้ว ยังสามรถรู้ได้ว่าฝนกำลังจะตกหรือไม่ และแจ้งเตือนผู้ใช้งานเมื่อฝนตกผ่านระบบLine ซึ่งสะดวกต่อผู้ใช้งานในปัจจุบัน
 ![](https://66.media.tumblr.com/d0ff910289719eeedc58f78b988bd0d0/tumblr_pqu19tZ9eR1yo55ppo1_1280.jpg)
 ***
+# Video Present รีวิวสาธิตการใช้งาน
+### รับชม `Video` Click Below Here!! 
+[![Video Review Intellignt Box](https://img.youtube.com/vi/hSzZSFaHLfc/0.jpg)](https://www.youtube.com/watch?v=hSzZSFaHLfc)
+***
 # Features ฟังก์ชั่นที่ตอบสนองต่อผู้ใช้งาน
 สำหรับการใช้งานเครื่อง Intelligent Weather Box ก็จะมีฟังก์ชั่นย่อยต่างๆ ในการแจ้งเตือนเกี่ยวกับสภาพอากาศ เช่น
 * ฟังก์ชั่นการบอกค่าอุณหภูมิ
